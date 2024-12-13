@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congratulations Hosein Ahmadi!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 50px;
+            text-align: center;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        p {
+            font-size: 20px;
+            color: #34495e;
+        }
+        .container {
+            border: 2px solid #2980b9;
+            border-radius: 10px;
+            padding: 20px;
+            background-color: #ecf0f1;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Congratulations, Hosein Ahmadi!</h1>
+        <p>We are thrilled to celebrate this monumental occasion of you taking a shower after decades!</p>
+        <p>Your dedication to personal hygiene is commendable, and we all applaud your efforts.</p>
+        <p>May this be a new beginning filled with fresh experiences!</p>
+        <p>Best wishes,</p>
+        <p>Your Friends</p>
+    </div>
+</body>
+</html>
